@@ -14,4 +14,5 @@ public class hundekonto {
      String turbo = Porsche + cayman;
     int s = 1; 
     String komm = "in die Gruppe";
+    String branch = "push";
 }
