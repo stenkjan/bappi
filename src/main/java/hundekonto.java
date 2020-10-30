@@ -13,5 +13,6 @@ public class hundekonto {
     String cayman= "";
      String turbo = Porsche + cayman;
      
+     String BMW = "";
     
 }
