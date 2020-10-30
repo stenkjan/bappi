@@ -13,6 +13,6 @@ public class hundekonto {
     String cayman= "!!!111";
      String turbo = Porsche + cayman;
     int s = 1; 
-    String komm = "in die Gruppe";
+    String komm = "in die Gruppe 1";
     String branch = "push!";
 }
