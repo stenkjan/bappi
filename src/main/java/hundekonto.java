@@ -10,7 +10,7 @@
  */
 public class hundekonto {
     String Porsche = "";
-    String cayman= "";
+    String cayman= "!!!111";
      String turbo = Porsche + cayman;
     int s = 1; 
     String komm = "geändert!";
