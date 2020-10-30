@@ -9,7 +9,9 @@
  * @author maxgr
  */
 public class hundekonto {
-    String Porsche;
-    
+    String Porsche = "";
+    String cayman= "";
+     String turbo = Porsche + cayman;
+     
     
 }
