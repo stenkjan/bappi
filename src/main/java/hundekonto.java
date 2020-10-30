@@ -12,6 +12,6 @@ public class hundekonto {
     String Porsche = "";
     String cayman= "";
      String turbo = Porsche + cayman;
-     
+    int s = 1; 
     
 }
